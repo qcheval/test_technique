@@ -1,0 +1,221 @@
+{
+    "capitals": [
+        {
+            "city": "Kingston",
+            "country": "Jamaica",
+            "elevation": 9,
+            "population": 670000
+        },
+        {
+            "city": "Pyongyang",
+            "country": "North Korea",
+            "elevation": 38,
+            "population": 3000000
+        },
+        {
+            "city": "Bandar Seri Begawan",
+            "country": "Brunei",
+            "elevation": 16,
+            "population": 100000
+        },
+        {
+            "city": "Skopje",
+            "country": "North Macedonia",
+            "elevation": 240,
+            "population": 500000
+        },
+        {
+            "city": "Doha",
+            "country": "Qatar",
+            "elevation": 10,
+            "population": 2100000
+        },
+        {
+            "city": "Naypyidaw",
+            "country": "Myanmar",
+            "elevation": 115,
+            "population": 930000
+        },
+        {
+            "city": "Bratislava",
+            "country": "Slovakia",
+            "elevation": 134,
+            "population": 430000
+        },
+        {
+            "city": "Baku",
+            "country": "Azerbaijan",
+            "elevation": -28,
+            "population": 2200000
+        },
+        {
+            "city": "Manila",
+            "country": "Philippines",
+            "elevation": 16,
+            "population": 1780000
+        },
+        {
+            "city": "Maputo",
+            "country": "Mozambique",
+            "elevation": 47,
+            "population": 1190000
+        },
+        {
+            "city": "N'Djamena",
+            "country": "Chad",
+            "elevation": 295,
+            "population": 1600000
+        },
+        {
+            "city": "Tashkent",
+            "country": "Uzbekistan",
+            "elevation": 455,
+            "population": 2500000
+        },
+        {
+            "city": "Georgetown",
+            "country": "Guyana",
+            "elevation": 2,
+            "population": 200000
+        },
+        {
+            "city": "Nassau",
+            "country": "Bahamas",
+            "elevation": 0,
+            "population": 275000
+        },
+        {
+            "city": "Ngerulmud",
+            "country": "Palau",
+            "elevation": 242,
+            "population": 400
+        },
+        {
+            "city": "Kinshasa",
+            "country": "Democratic Republic of the Congo",
+            "elevation": 240,
+            "population": 11000000
+        },
+        {
+            "city": "Lima",
+            "country": "Peru",
+            "elevation": 1549,
+            "population": 8500000
+        },
+        {
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "elevation": 1,
+            "population": 800000
+        },
+        {
+            "city": "Jerusalem",
+            "country": "Israel",
+            "elevation": 754,
+            "population": 900000
+        },
+        {
+            "city": "Mexico City",
+            "country": "Mexico",
+            "elevation": 2250,
+            "population": 9200000
+        },
+        {
+            "city": "Porto-Novo",
+            "country": "Benin",
+            "elevation": 38,
+            "population": 270000
+        },
+        {
+            "city": "Riga",
+            "country": "Latvia",
+            "elevation": 6,
+            "population": 630000
+        },
+        {
+            "city": "Dushanbe",
+            "country": "Tajikistan",
+            "elevation": 803,
+            "population": 900000
+        },
+        {
+            "city": "Andorra la Vella",
+            "country": "Andorra",
+            "elevation": 1023,
+            "population": 22000
+        },
+        {
+            "city": "Ouagadougou",
+            "country": "Burkina Faso",
+            "elevation": 305,
+            "population": 2800000
+        },
+        {
+            "city": "Vaduz",
+            "country": "Liechtenstein",
+            "elevation": 455,
+            "population": 5500
+        },
+        {
+            "city": "Accra",
+            "country": "Ghana",
+            "elevation": 61,
+            "population": 2300000
+        },
+        {
+            "city": "Managua",
+            "country": "Nicaragua",
+            "elevation": 82,
+            "population": 1040000
+        },
+        {
+            "city": "Wellington",
+            "country": "New Zealand",
+            "elevation": 196,
+            "population": 215000
+        },
+        {
+            "city": "Bern",
+            "country": "Switzerland",
+            "elevation": 540,
+            "population": 133000
+        },
+        {
+            "city": "Chisinau",
+            "country": "Moldova",
+            "elevation": 85,
+            "population": 700000
+        },
+        {
+            "city": "Bogotá",
+            "country": "Colombia",
+            "elevation": 2640,
+            "population": 7600000
+        },
+        {
+            "city": "Yamoussoukro",
+            "country": "Ivory Coast",
+            "elevation": 213,
+            "population": 355000
+        },
+        {
+            "city": "Tegucigalpa",
+            "country": "Honduras",
+            "elevation": 990,
+            "population": 1120000
+        },
+        {
+            "city": "Roseau",
+            "country": "Dominica",
+            "elevation": 3,
+            "population": 15000
+        },
+        {
+            "city": "Kigali",
+            "country": "Rwanda",
+            "elevation": 1567,
+            "population": 1300000
+        }
+    ]
+}
+
